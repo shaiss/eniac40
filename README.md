@@ -1,3 +1,6 @@
+# What is the Eniac40?
+The Eniac40 is a large format 3d printer platorm.  If following the docs and BOM you could build a 400x400x400 or slightly bigger 3d printer for ~$600 USD.  However, the goal of the Eniac49 is to provide a starting platform as well as teach the tools to then be able to build up on your own!
+
 # OnShape CAD Model:
 CAD model of all the parts in the printer. Use the "Printed Parts" tab to export 1 of each of the printed parts. As new parts are created, they will get added to this assembly.
 https://cad.onshape.com/documents/223146bb463c991c77f7e75c/w/28e056cfffc23c5833dd2287/e/b340da5ffd61fcb95bf54b4e?fbclid=IwAR1jAIcZkCj2RmN0AaYrignqYXLycoQBI_4p2idfbGjot9LcWe_trxHrhFg.
